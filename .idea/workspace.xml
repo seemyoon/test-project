@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c77b43e-ff4b-486e-83d2-1b8ef0fedea7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c77b43e-ff4b-486e-83d2-1b8ef0fedea7" name="Changes" comment="create 5 and 6 file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Danil" />
+        <entry key="$PROJECT_DIR$" value="74fdb850e7aae7f5509edf14d9f40f99cd81e485" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,14 +33,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "74fdb850",
+    "git-widget-placeholder": "danil-branch",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,8 +55,17 @@
       <workItem from="1710880776991" duration="1570000" />
       <workItem from="1711468226544" duration="31000" />
       <workItem from="1711468312636" duration="152000" />
-      <workItem from="1711469600932" duration="2832000" />
+      <workItem from="1711469600932" duration="3504000" />
     </task>
+    <task id="LOCAL-00001" summary="create 5 and 6 file">
+      <option name="closed" value="true" />
+      <created>1711478915589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711478915589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create 5 and 6 file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create 5 and 6 file" />
   </component>
 </project>
